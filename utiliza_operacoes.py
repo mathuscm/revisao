@@ -11,3 +11,4 @@ print("O resto da divisão de", num1, "por", num2, "é igual a", resto(num1, num
 print("A divisão inteira de", num1, "por", num2, "é igual a", divisao_inteira(num1, num2))
 
 print("Obrigado por utilizar o programa!")
+paoDeQueijo('farinha', 'Queijo')
